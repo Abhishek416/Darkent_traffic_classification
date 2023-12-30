@@ -1,5 +1,5 @@
 # Darkent_traffic_classification
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQelHhRr2cXhK9RCt1xMSBxcQ-KaO_a7GqyvQ&usqp=CAU"></h1>
+<img src="https://drive.google.com/file/d/1YV2yT3GzHhwCHCdgOSnzBAnKIDW-sJgY/view?usp=sharing"></h1>
 <br>
 
 This project is focused on the classification of darknet traffic through the implementation and evaluation 
